@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    
+}
+
+div{
+    background-color: aquamarine;
+    padding: 25px;
+    font-family: lobster;
+    margin: 25px;
+    border-radius: 25px;
+}
+
+#increment-btn{
+    background-color: coral;
+    border-radius: 10px;
+}
+
+#save-btn{
+    background-color: blue;
+    border-radius: 10px;
+}
